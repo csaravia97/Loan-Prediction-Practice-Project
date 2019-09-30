@@ -1,1 +1,1 @@
-# Machine-Learning-Practice-Projects
+# Loan-Prediction-Practice-Project
